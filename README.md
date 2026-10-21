@@ -26,15 +26,13 @@ The project demonstrates an end-to-end machine learning workflow using Python, s
 | Python              | Machine learning implementation and experimentation                    |
 | MLflow              | Experiment tracking, automatic logging, and model lifecycle management |
 | scikit-learn        | ElasticNet regression, model evaluation, and hyperparameter tuning     |
-| NumPy               | Numerical computation                                                  |
-| pandas              | Data exploration and manipulation                                      |
+| NumPy, pandas       | Numerical computation, data exploration and manipulation               |
 | SciPy               | Hyperparameter probability distributions                               |
 | RandomizedSearchCV  | Hyperparameter optimization using cross-validation                     |
-| Requests            | HTTP requests to the model-serving endpoint                            |
-| JSON                | Formatting inference requests and responses                            |
 | Kubernetes          | Container orchestration in the broader deployment methodology          |
 | Kind and Minikube   | Local Kubernetes environments used in the research               |
 | KServe and MLServer | Model-serving technologies used in the research                  |
+| Requests            | HTTP requests to the model-serving endpoint, inferences formatted in JSON  | 
 
 The Python implementation focuses on the MLflow experiment-tracking, regression, hyperparameter-tuning, and inference workflows. The Databricks, Azure and Kubernetes-related technologies form part of the broader deployment methodology described in the research poster. Local and test versions of these platforms were used.
 
@@ -52,7 +50,7 @@ The project is presented as a wine-quality regression experiment, with ElasticNe
 
 ### 1. Data Loading and Exploration
 
-The dataset is loaded into feature and target arrays. pandas is used to inspect the input features, while the target values are used for model training and evaluation.
+The dataset is loaded into feature and target arrays. Leveraged pandas to inspect the input features, while the target values are used for model training and evaluation.
 
 ### 2. Regression Model Training
 
@@ -209,7 +207,7 @@ These provide opportunities to explore more reproducible, scalable, and maintain
 
 ## Authors
 
-**[Samuel Darteh](https://linkedin.com/in/sdartehpro)**
+* **[Samuel Darteh](https://linkedin.com/in/sdartehpro)**
 * Emmanuel Teigong
 * Gilbert Kennedy
 
