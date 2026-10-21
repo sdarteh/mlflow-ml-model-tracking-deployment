@@ -1,4 +1,4 @@
-# Towards ML Modeling and Deployment: Optimizing Fitting Time, Efficiency and Productivity Using MLflow
+# Towards MLOps: Optimizing Fitting Time, Efficiency and Productivity Using MLflow
 
 
 ## Project Overview
