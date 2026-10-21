@@ -181,15 +181,13 @@ The model-serving process must be running on the configured port to accept reque
 
 The original research poster reports an R² score of **0.8830 on the test set** and **0.8895 on the training set** for the reported production model.
 
-These figures are presented as reported in the original research poster.
+Refer to the presented poster in the attached files.
 
 ## Research Context
 
-This project is based on the research poster *Towards ML Modeling and Deployment: Optimizing Fitting Time, Efficiency and Productivity Using MLflow*, prepared by Samuel Darteh, Emmanuel Teigong, and Gilbert Kennedy as part of their Data Science MS work.
+This project is based on the research poster *Towards ML Modeling and Deployment: Optimizing Fitting Time, Efficiency and Productivity Using MLflow*, as part of Data Science MS work, which I (Samuel Darteh) played a lead-role designing the MLOps architecture, training the ML model, and pushing to production.
 
-The research examines how MLOps tools can support the transition from model development to production through experiment tracking, hyperparameter tuning, model registry workflows, and deployment.
-
-It explores MLflow as a framework for organizing machine learning experiments and managing the model lifecycle.
+The research examines how MLOps tools can support the transition from model development to production through experiment tracking, hyperparameter tuning, model registry workflows, and deployment. It explores MLflow as a framework for organizing machine learning experiments and managing the model lifecycle.
 
 ## Research Application and Future Work
 
@@ -215,10 +213,9 @@ These provide opportunities to explore more reproducible, scalable, and maintain
 * Emmanuel Teigong
 * Gilbert Kennedy
 
-MS Data Science
-
+MS Data Science <br>
 [Michigan Technological University](https://www.mtu.edu/)
 
 ## Acknowledgements
 
-The original research acknowledges Dr. Evans Lucas for his guidance and contributions to the project.
+The original research acknowledges [Dr. Evan Lucas](https://www.linkedin.com/in/evan-lucas-56804867/) for his guidance and contributions to the project.
