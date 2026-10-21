@@ -218,4 +218,4 @@ MS Data Science <br>
 
 ## Acknowledgements
 
-The original research acknowledges [Dr. Evan Lucas](https://www.linkedin.com/in/evan-lucas-56804867/) for his guidance and contributions to the project.
+We acknowledge [Dr. Evan Lucas](https://www.linkedin.com/in/evan-lucas-56804867/) for his guidance and contributions to the project.
